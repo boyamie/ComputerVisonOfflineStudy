@@ -15,8 +15,8 @@
 |5/20|[아키텍처조사](https://alive-failing-42f.notion.site/5-20-9b13ee97ba4d445289c4c27bb99ccfdc?pvs=4)|
 
 # 멤버
-- [김상유]
+- [김상유](https://github.com/dhfpswlqkd)
 - [김보현](https://github.com/boyamie)
-- [이상준]
-- [임영훈]
+- [이상준](https://github.com/J-1ac)
+- [임영훈](https://github.com/yhoon37)
 - [사야]
