@@ -15,7 +15,7 @@
 |VGGNet|[이상준](https://alive-failing-42f.notion.site/69e310c746d246aab3413e322e9eda63?pvs=4)|
 |ResNet|[임영훈](https://alive-failing-42f.notion.site/631de147d45c4f8e82127f994b5d82fa?pvs=4)|
 |EfficientNet Code|[김상유](https://alive-failing-42f.notion.site/66eaa65f5f994942b0ec1f5f48bdf419?pvs=4)|
-|GoogLeNet Code|[김보현](https://alive-failing-42f.notion.site/5-13-c45aa55bb97a4def8593544473edc315?pvs=4)|
+|GoogLeNet Code|[김보현](https://alive-failing-42f.notion.site/af8ce47e72724e419bfc910c30f143f9?pvs=4)|
 |VGGNet Code|[이상준](https://alive-failing-42f.notion.site/1b3877a0209c418482ba0570409153a4?pvs=4)|
 |ResNet50 Code|[임영훈](https://alive-failing-42f.notion.site/3606c1e06e4a421fa8b16adf7c099189?pvs=4)|
 
