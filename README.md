@@ -24,4 +24,3 @@
 - [김보현](https://github.com/boyamie)
 - [이상준](https://github.com/J-1ac)
 - [임영훈](https://github.com/yhoon37)
-- [사야]
